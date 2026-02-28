@@ -1,10 +1,11 @@
----
+---produtos de primeira necessidade 
 description: Create, run, and publish workflows.
 contentType: howto
----
-
+---material eletrodomésticos 
+---hobs de serviços em múltiplas 
+escritório e salas
 # Create a workflow
-
+mercado online: WhatsApp 868840081
 A [workflow](/glossary.md#workflow-n8n) is a collection of nodes connected together to automate a process. You build workflows on the [workflow canvas](/glossary.md#canvas-n8n).
 
 ## Create a workflow
